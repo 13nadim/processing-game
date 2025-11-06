@@ -4,14 +4,29 @@
 
 First-year university module submission for **Programming**. A 2D collecting game built with **Processing (Java)**.
 
+---
+
 ## Installation / Setup
 
 1. clone the repository
 2. open in Processing
 3. 'run'
 
-## Notes
-
-The app connects to a RESTful API hosted externally by the module instructor. All API endpoints for messages, users and contacts are fully functional. No local server setup is required.
+---
 
 ## Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Homepage.png" width="300px"><br>
+        <b>Homepage</b>
+      </td>
+      <td align="center">
+        <img src="FilmPage.png" width="300px"><br>
+        <b>Film Page</b>
+      </td>
+    </tr>
+  </table>
+</div>
