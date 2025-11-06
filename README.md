@@ -20,12 +20,16 @@ First-year university module submission for **Programming**. A 2D collecting gam
   <table>
     <tr>
       <td align="center">
-        <img src="Homepage.png" width="300px"><br>
+        <img src="Game.png" width="300px"><br>
         <b>Homepage</b>
       </td>
       <td align="center">
-        <img src="FilmPage.png" width="300px"><br>
+        <img src="Game.png" width="300px"><br>
         <b>Film Page</b>
+        <td align="center">
+        <img src="Game.png" width="300px"><br>
+        <b>Homepage</b>
+      </td>
       </td>
     </tr>
   </table>
